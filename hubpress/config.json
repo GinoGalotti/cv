@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "username": "ginogalotti",
+    "repositoryName": "improv",
+    "branch": "cv",
+    "cname": ""
+  },
+  "theme": {
+    "name": "uno-zen"
+  },
+  "urls": {
+    "site": "https://ginogalotti.github.io/improv",
+    "hubpress": "https://ginogalotti.github.io/improv",
+    "theme": "//ginogalotti.github.io/improv/themes/uno-zen",
+    "images": "https://ginogalotti.github.io/improv/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
+  },
+  "site": {
+    "title": "Gino Galotti",
+    "description": "",
+    "logo": "",
+    "cover": "https://ginogalotti.github.io/improv/images/profile-pic.jpg",
+    "delay": "",
+    "postsPerPage": "5",
+    "blogPath": "",
+    "googleAnalytics": "UA-63334703-1",
+    "disqus": "improve-in-improv"
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "https://github.com/GinoGalotti/",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "https://www.instagram.com/call.me.gino/",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "https://www.linkedin.com/in/ginogalotti/",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
+}
