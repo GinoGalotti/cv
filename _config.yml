@@ -1,0 +1,56 @@
+url: https://ginogalotti.github.io/cv
+baseurl: /cv/
+
+# Site settings
+title: Gino Galotti Muñoz
+email: me@ginogalotti.com
+description: "Gino Galotti's home page. Here you will find a summarize version of my resume, as well as other places you can find my job."
+
+
+# Team names, titles and social links
+people:
+- name: Gino Galotti
+  pic: 1
+  position: Quality Assistance
+  social:
+    - title: github
+      url: https://github.com/GinoGalotti/
+    - title: linkedin
+      url: https://www.linkedin.com/in/ginogalotti/
+
+- name: Gino Galotti
+  pic: 2
+  position: Improviser
+  social:
+    - title: bookmark
+      url: https://improv.ginogalotti.com
+    - title: facebook
+      url: https://www.facebook.com/improveinimprov/
+    - title: instagram
+      url: https://www.instagram.com/call.me.gino/
+
+- name: Gino Galotti
+  pic: 3
+  position: Writter
+  social:
+    - title: bookmark
+      url: https://callmegino.blogspot.com
+    - title: instagram
+      url: https://www.instagram.com/call.me.gino/
+    - title: bookmark
+      url: https://improv.ginogalotti.com
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://www.instagram.com/call.me.gino/
+  - title: facebook
+    url: https://www.facebook.com/improveinimprov/
+  - title: github
+    url: https://github.com/GinoGalotti/
+  - title: linkedin
+    url: https://www.linkedin.com/in/ginogalotti/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
