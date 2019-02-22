@@ -22,7 +22,7 @@ people:
   pic: 2
   position: Improviser
   social:
-    - title: bookmark
+    - title: pen-fancy
       url: https://improv.ginogalotti.com
     - title: facebook
       url: https://www.facebook.com/improveinimprov/
@@ -33,11 +33,11 @@ people:
   pic: 3
   position: Writter
   social:
-    - title: bookmark
+    - title: pen-fancy
       url: https://callmegino.blogspot.com
     - title: instagram
       url: https://www.instagram.com/call.me.gino/
-    - title: bookmark
+    - title: pen-fancy
       url: https://improv.ginogalotti.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
