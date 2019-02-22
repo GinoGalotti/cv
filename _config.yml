@@ -1,4 +1,4 @@
-url: https://ginogalotti.github.io/cv
+url: https://ginogalotti.github.io/cv/
 baseurl: /cv/
 
 # Site settings
@@ -14,9 +14,9 @@ people:
   position: Quality Assistance
   social:
     - title: github
-      url: https://github.com/GinoGalotti/
+      url: https://github.com/GinoGalotti
     - title: linkedin
-      url: https://www.linkedin.com/in/ginogalotti/
+      url: https://www.linkedin.com/in/ginogalotti
 
 - name: Gino Galotti
   pic: 2
