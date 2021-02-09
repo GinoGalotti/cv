@@ -3,8 +3,8 @@ baseurl: /
 
 # Site settings
 title: Gino Galotti Muñoz
-email: me@ginogalotti.com
-description: "Gino Galotti's home page. Here you will find a summarize version of my resume, as well as other places you can find my job."
+email: gino.galotti@gmail.com
+description: "Gino Galotti's home page. Here you will find a summary of my cv, as well as other places you can find me."
 
 
 # Team names, titles and social links
@@ -24,10 +24,6 @@ people:
   social:
     - title: github-alt
       url: https://improv.ginogalotti.com
-    - title: facebook
-      url: https://www.facebook.com/improveinimprov
-    - title: instagram
-      url: https://www.instagram.com/call.me.gino
 
 - name: Gino Galotti
   pic: 3
@@ -35,17 +31,9 @@ people:
   social:
     - title: wordpress
       url: https://callmegino.wordpress.com
-    - title: instagram
-      url: https://www.instagram.com/call.me.gino
-    - title: github-alt
-      url: https://improv.ginogalotti.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: instagram
-    url: https://www.instagram.com/call.me.gino
-  - title: facebook
-    url: https://www.facebook.com/improveinimprov
   - title: github
     url: https://github.com/GinoGalotti
   - title: linkedin
